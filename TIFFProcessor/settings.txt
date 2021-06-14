@@ -1,0 +1,3 @@
+imagefilespath=C:\VenkataGanti\Test TIFF files\HD\
+compression=JPEG
+threshold=100
